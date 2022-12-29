@@ -30,17 +30,17 @@
     "ibm-gantt-chart": "^0.5.22"
   },
   "devDependencies": {
-    "@hot-loader/react-dom": "^16.8.6",
+    "@hot-loader/react-dom": "^17.0.2",
     "gda-scripts": "^0.3.0",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "peerDependencies": {
     "ibm-gantt-chart": "^0.5.0",
     "prop-types": "^15.7.2",
-    "react": "16.8.6",
-    "react-dom": "16.8.6"
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "gitHead": "ab0924bd46f9c9ef2307724be62445e15c48c312"
 }
